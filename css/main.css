@@ -162,6 +162,10 @@ footer p{
     font-size: 14px;
     padding: 2px 3px;
    }
+   footer{
+    bottom: 0;
+    position: absolute;    
+   }
 }
 
 
