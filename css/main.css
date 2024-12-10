@@ -156,6 +156,8 @@ footer p{
 #logmessage{
     width: 50vw;
     font-size: 14px;
+    padding: 2px 3px;
+
    }
 }
 
