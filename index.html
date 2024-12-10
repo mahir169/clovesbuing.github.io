@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="stylesheet" href="css/main.css">
+    <title>C.B.S/login</title>
+</head>
+<body>
+    <header>
+        <h1>Cloves Buying System (C.B.S)</h1>
+    </header>
+
+    <main>
+        <div class="login-form">
+            <h3>customer Login</h3>
+            <form id="customer-login">
+                <div class="input-eml">
+                    <input type="email" placeholder="Email" id="logEmail" required>
+                </div>
+                <div class="input-psw">
+                    <input type="password" value="" placeholder="Password" id="logPassw" required>
+                    <span><i class="fas fa-eye-slash" onclick="showPassw()" id="eye"></i></span>
+                </div>
+                <button type="submit">login</button>
+                <small id="logmessage">Invalid credentials! Please try again</small>
+            </form>
+            <p class="register-link">Don't have an account? <a href="href/">Register here</a></p>
+        </div>
+    </main>
+
+    <footer>
+        <p style="margin-top: 10px;">&copy; 2024 C.B.S. All right are resserved</p>
+    </footer>
+
+    <script src="js/all.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
