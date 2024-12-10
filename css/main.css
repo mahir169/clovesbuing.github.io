@@ -158,9 +158,9 @@ footer p{
     cursor: pointer;
   }
    #logmessage{
-    width: 50vw;
+    width: 48vw;
     font-size: 14px;
-    padding: 2px 3px;
+    padding: 2px 2px;
    }
    footer{
     bottom: 0;
