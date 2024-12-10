@@ -147,6 +147,9 @@ footer p{
     h1{
         font-size: 1.3rem;
     }
+    .input-eml input,.input-psw,button{
+    width: 30vw;
+   }
 }
 
 
