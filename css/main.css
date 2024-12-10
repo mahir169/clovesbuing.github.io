@@ -125,3 +125,19 @@ footer p{
     margin-top: 12px;
     text-align: center;
 }
+
+@media (max-width: 520px){
+    header{
+    top: 0;
+    margin: 0 0 15px 0;
+    color: #ff0000;
+    padding:  0;
+    text-align: center;
+    background: #34bd56;
+}
+}
+
+
+
+
+
