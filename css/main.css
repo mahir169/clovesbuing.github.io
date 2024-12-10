@@ -133,7 +133,7 @@ footer p{
     main .login-form{
     width: 60vw;
     height: 48vh;
-    margin: 10vh auto;
+    margin: 15vh auto;
     }
     h1{
         font-size: 1.3rem;
@@ -154,7 +154,7 @@ footer p{
     width: 42vw;
    }
     .input-psw span{
-    padding: 12px 14px;
+    padding: 12px 10px;
     cursor: pointer;
   }
    #logmessage{
