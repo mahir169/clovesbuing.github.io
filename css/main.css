@@ -138,6 +138,10 @@ footer p{
     h1{
         font-size: 1.3rem;
     }
+    h3{
+    padding: 7px 0;
+    font-size: 1.07rem;
+    }
     input{
     padding-left: 6px;
     }
