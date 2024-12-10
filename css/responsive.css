@@ -9,7 +9,7 @@
     main .login-form{
     width: 60vw;
     height: 45vh;
-    margin: 12vh auto;
+    margin: 13vh auto;
     }
     h1{
         font-size: 1.3rem;
@@ -41,7 +41,7 @@
     p.register-link{
         font-size: 12px
         display: block;
-        margin: 0 12px;
+        margin: 5px 12px;
         flex-direction: column;
     }
    footer{
