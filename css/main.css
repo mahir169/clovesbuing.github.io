@@ -110,7 +110,6 @@ button:active{
       }
 }
 
-
 footer{
     width: 100%;
     padding: 17px 0;
@@ -139,13 +138,16 @@ footer p{
     h1{
         font-size: 1.3rem;
     }
+    input{
+    padding-left: 6px;
+    }
     .input-eml input,.input-psw,button{
     height: 5vh;
     width: 54vw;
    }
     .input-psw input{
     height: 4.6vh;
-    width: 30vw;
+    width: 40vw;
    }
     .input-psw span{
     padding: 6px 10px;
