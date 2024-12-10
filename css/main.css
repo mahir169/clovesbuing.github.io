@@ -143,8 +143,13 @@ footer p{
         font-size: 1.3rem;
     }
     .input-eml input,.input-psw,button{
-    width: 30vw;
+    height: 4vh;
+    width: 35vw;
    }
+    .input-psw input{
+    height: 3.6vh;
+    width: 27vw;
+}
 }
 
 
