@@ -135,7 +135,7 @@ footer p{
     text-align: center;
     }
     main .login-form{
-    width: 50vw;
+    width: 60vw;
     height: 48vh;
     margin: 12vh auto;
     }
@@ -144,7 +144,7 @@ footer p{
     }
     .input-eml input,.input-psw,button{
     height: 3vh;
-    width: 42vw;
+    width: 54vw;
    }
     .input-psw input{
     height: 2.6vh;
