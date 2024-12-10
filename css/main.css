@@ -133,6 +133,16 @@ footer p{
     padding: 5px 0;
     text-align: center;
     }
+    main .login-form{
+    width: 50vw;
+    height: 60vh;
+    margin: 12vh auto;
+    padding:  0;
+    text-align: center;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 }
 
 
