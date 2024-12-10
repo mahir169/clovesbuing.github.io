@@ -147,11 +147,11 @@ footer p{
     }
     .input-eml input,.input-psw,button{
     height: 5vh;
-    width: 54vw;
+    width: 50vw;
    }
     .input-psw input{
     height: 4.6vh;
-    width: 42vw;
+    width: 38vw;
    }
     .input-psw span{
     padding: 12px 10px;
