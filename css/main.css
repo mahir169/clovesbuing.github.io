@@ -150,12 +150,12 @@ footer p{
     width: 40vw;
    }
     .input-psw span{
-    padding: 6px 10px;
+    padding: 12px 10px;
     cursor: pointer;
 }
 #logmessage{
     width: 50vw;
-    font-size: 15px;
+    font-size: 14px;
    }
 }
 
