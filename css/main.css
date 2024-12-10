@@ -162,9 +162,6 @@ footer p{
     font-size: 14px;
     padding: 2px 3px;
    }
-   #logmessage::after{
-     content: "invalid credential! try again";
-    }
 }
 
 
