@@ -156,13 +156,15 @@ footer p{
     .input-psw span{
     padding: 12px 14px;
     cursor: pointer;
-}
-#logmessage{
+  }
+   #logmessage{
     width: 50vw;
     font-size: 14px;
     padding: 2px 3px;
-
    }
+    #logmessage::after{
+        content: "invalid credential! try again";
+    }
 }
 
 
