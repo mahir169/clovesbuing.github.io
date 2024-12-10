@@ -133,7 +133,7 @@ footer p{
     main .login-form{
     width: 60vw;
     height: 48vh;
-    margin: 19vh auto;
+    margin: 10vh auto;
     }
     h1{
         font-size: 1.3rem;
@@ -162,8 +162,8 @@ footer p{
     font-size: 14px;
     padding: 2px 3px;
    }
-    #logmessage::after{
-        content: "invalid credential! try again";
+   #logmessage::after{
+     content: "invalid credential! try again";
     }
 }
 
