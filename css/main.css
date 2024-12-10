@@ -143,11 +143,11 @@ footer p{
         font-size: 1.3rem;
     }
     .input-eml input,.input-psw,button{
-    height: 4vh;
+    height: 5vh;
     width: 54vw;
    }
     .input-psw input{
-    height: 3.6vh;
+    height: 4.6vh;
     width: 30vw;
    }
 #logmessage{
